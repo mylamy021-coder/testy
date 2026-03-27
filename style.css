@@ -1,0 +1,14 @@
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f9f9f9;
+  margin: 0;
+  padding: 20px;
+}
+h1 { color: #333; }
+form { margin: 20px 0; }
+input { padding: 10px; width: 60%; }
+button { padding: 10px; }
+ul { list-style: none; padding: 0; }
+li { background: #fff; margin: 5px; padding: 10px; border-radius: 5px; }
